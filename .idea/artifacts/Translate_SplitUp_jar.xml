@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Translate SplitUp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Translate_SplitUp_jar</output-path>
+    <root id="archive" name="Translate SplitUp.jar">
+      <element id="module-output" name="Translate SplitUp" />
+      <element id="extracted-dir" path="D:/Collections/Java Jar Collections/AdventNetDesktopCentral_WPack (100086)/commons-lang-2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Collections/Java Jar Collections/AdventNetDesktopCentral_WPack (100086)/commons-io-1.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
